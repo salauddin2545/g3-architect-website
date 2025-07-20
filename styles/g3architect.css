@@ -137,11 +137,41 @@ main > section{
     max-width: 540px;
 }
 
-/* architecture related style */
+/* features related style */
 .architecture img{
     max-width: 700px;
     max-height: 980px;
+    margin-left: 20px;
+    margin-left: 150px;
 }
+
+#features-section-tile{
+    border-left: 6px solid #ff900e;
+    padding-left: 15px;
+}
+
+.enjoyed-device{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.10);
+    margin-top: 20px;
+}
+#experience-badge{
+    padding: 45x 42px;
+    font-size: 25px;
+}
+
+#experience-year{
+    font-size: 4rem;
+}
+/* .enjoyed-device{
+    gap: 140px;
+} */
+/* .experience{
+    max-width: 342px;
+    max-height: 200px;
+} */
+
 /* sponsor related style */
 .sponsor-info{
     max-width: 540px;
